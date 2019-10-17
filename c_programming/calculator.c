@@ -7,7 +7,7 @@ void main(){
 double num1, num2;
 char op;
 
-printf("Enter the calculation:\n");
+printf("Enter the calculate:\n");
 scanf("%lf%c%lf", &num1,&op,&num2);
 
 switch(op){
